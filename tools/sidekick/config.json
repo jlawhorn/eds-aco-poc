@@ -1,5 +1,5 @@
 {
-  "project": "My Project",
+  "project": "EDS ACO POC",
   "editUrlLabel": "Document Authoring",
   "editUrlPattern": "https://da.live/edit#/jlawhorn/eds-aco-poc{{pathname}}"
 }
